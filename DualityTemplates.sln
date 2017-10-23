@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualityExtension", "DualityExtension\DualityExtension.csproj", "{F3478608-3D00-4531-BEDE-A19EFFD838EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProjectTemplates", "ProjectTemplates", "{EB242B21-B3AF-4A2C-9962-A911CE4EFE64}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ItemTemplates", "ItemTemplates", "{867C548F-A994-4401-84D6-115F57CFB50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualityComponent", "DualityComponent\DualityComponent.csproj", "{76940B73-9E48-449A-B20A-9E6645E9E12F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualityPlugin", "DualityPlugin\DualityPlugin.csproj", "{797924A6-2D73-4851-85E1-DBF9F0884692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DualityEditorPlugin", "DualityEditorPlugin\DualityEditorPlugin.csproj", "{97A1C6C5-A7F5-4C61-80CA-27EBFC99A57A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3478608-3D00-4531-BEDE-A19EFFD838EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3478608-3D00-4531-BEDE-A19EFFD838EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3478608-3D00-4531-BEDE-A19EFFD838EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3478608-3D00-4531-BEDE-A19EFFD838EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76940B73-9E48-449A-B20A-9E6645E9E12F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76940B73-9E48-449A-B20A-9E6645E9E12F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76940B73-9E48-449A-B20A-9E6645E9E12F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76940B73-9E48-449A-B20A-9E6645E9E12F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797924A6-2D73-4851-85E1-DBF9F0884692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797924A6-2D73-4851-85E1-DBF9F0884692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797924A6-2D73-4851-85E1-DBF9F0884692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797924A6-2D73-4851-85E1-DBF9F0884692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A1C6C5-A7F5-4C61-80CA-27EBFC99A57A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A1C6C5-A7F5-4C61-80CA-27EBFC99A57A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A1C6C5-A7F5-4C61-80CA-27EBFC99A57A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A1C6C5-A7F5-4C61-80CA-27EBFC99A57A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{76940B73-9E48-449A-B20A-9E6645E9E12F} = {867C548F-A994-4401-84D6-115F57CFB50B}
+		{797924A6-2D73-4851-85E1-DBF9F0884692} = {EB242B21-B3AF-4A2C-9962-A911CE4EFE64}
+		{97A1C6C5-A7F5-4C61-80CA-27EBFC99A57A} = {EB242B21-B3AF-4A2C-9962-A911CE4EFE64}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E3F7890-8D2D-4F1B-BEB5-4180EACACE2D}
+	EndGlobalSection
+EndGlobal
