@@ -2,9 +2,8 @@
 A extension for visual studio that contains templates for duality
 
 # Installation instructions:
-1. Download the zip from https://github.com/Barsonax/DualityVSExtension/releases
-2. Unzip it
-3. Install the extension by opening it
+1. Download the vsix from https://github.com/Barsonax/DualityVSExtension/releases
+2. Install the extension by opening it
 
 # Uninstallation instructions:
 1. Open visual studio
