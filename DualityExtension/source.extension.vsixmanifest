@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="DualityExtension.c0127245-7d2c-45d7-a4a4-70abe5bc0657" Version="1.0" Language="en-US" Publisher="Rick van Dam" />
+        <Identity Id="DualityExtension.c0127245-7d2c-45d7-a4a4-70abe5bc0657" Version="1.01" Language="en-US" Publisher="Rick van Dam" />
         <DisplayName>DualityExtension</DisplayName>
-        <Description>Empty VSIX Project.</Description>
+        <Description xml:space="preserve">A extension for visual studio that contains templates for duality</Description>
+        <Tags>Duality</Tags>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0]" />

@@ -5,7 +5,6 @@
     <Description>DualityPlugin</Description>
     <Icon>DualityPlugin.ico</Icon>
     <ProjectType>CSharp</ProjectType>
-    <RequiredFrameworkVersion>2.0</RequiredFrameworkVersion>
     <SortOrder>1000</SortOrder>
     <TemplateID>f94d0116-0540-460b-a1f4-69d13fb3ce1e</TemplateID>
     <NumberOfParentCategoriesToRollUp>2</NumberOfParentCategoriesToRollUp>
