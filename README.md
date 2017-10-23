@@ -1,4 +1,5 @@
 # DualityVSExtension
+A extension for visual studio that contains templates for duality
 
 # Installation instructions:
 1. Download the zip from https://github.com/Barsonax/DualityVSExtension/releases
